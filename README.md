@@ -39,6 +39,6 @@
 <br />
 
 [twitter]: https://twitter.com/YanMax
-[instagram]: https://instagram.com/yanmaxbr/
+[instagram]: https://instagram.com/yanmaxbr
 [linkedin]: https://linkedin.com/in/marcos-g/
 [repo]: https://github.com/yamgarcia/yamgarcia
