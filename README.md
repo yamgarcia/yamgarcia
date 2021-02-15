@@ -4,7 +4,7 @@
 
 ## Digital Marketing Specialist and Full Stack Developer
 
-- ⚛️ MERN Stack fanboy
+- ⚛️ MERN Stack and NEXTJS team
 - 🌱 Learning DevOps and cloud computing services
 - 🥅 5-year goal: Build a career using Digital Marketing & Web Development
 - 🥅 10-year goal: Lead a team throughout technology solution projects
