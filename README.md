@@ -13,9 +13,9 @@
 
 <b>[Visit my Portfolio  ](marcos-portfolio.herokuapp.com/)</b>
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="30px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="28px" src="https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png" />][linkedin]
+[<img align="left" alt="Instagram" width="40px" src="https://www.freepnglogos.com/uploads/transparent-instagram-logo----6.png" />][instagram]
 
 <br />
 
