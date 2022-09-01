@@ -1,6 +1,6 @@
 ### Marcos Garcia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamgarcia&layout=compact)](https://github.com/yamgarcia/readme-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamgarcia&layout=compact&hide=html&exclude_repo=Wave,JSP-Register-Login,Skunk-Game,Mathematics,Devices,Chess-Settings,Employable)](https://github.com/yamgarcia)
 
 ## Digital Marketing Specialist and Full Stack Developer
 
