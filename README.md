@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<b>[Visit my Portfolio  ](marcos-portfolio.herokuapp.com/)</b>
+<b>[Visit my Portfolio  ](https://yamgarcia.github.io/Portfolio/)</b>
 
 [<img align="left" alt="Twitter" width="30px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="28px" src="https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png" />][linkedin]
